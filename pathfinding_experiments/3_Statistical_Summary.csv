@@ -1,0 +1,33 @@
+,,Time_ms,Time_ms,Nodes Expanded,Peak Memory (Nodes in Open)
+,,mean,std,mean,max
+Environment Type,Algorithm,,,,
+Maze,A*,193.5,288.56,21322.45,53
+Maze,BFS,158.91,236.58,21603.58,47
+Maze,Dijkstra,180.69,273.24,21596.7,43
+Maze,Greedy Best-First,140.21,227.65,15827.8,432
+Maze,JPS,138.73,211.24,7718.74,24
+Open Field,A*,71.03,116.41,6563.88,2035
+Open Field,BFS,318.43,497.18,40254.64,1654
+Open Field,Dijkstra,469.51,749.58,44622.34,1933
+Open Field,Greedy Best-First,1.3,1.18,106.09,878
+Open Field,JPS,215.12,260.63,2.96,1
+Random Noise 10%,A*,69.61,143.63,6131.89,3544
+Random Noise 10%,BFS,297.56,490.23,37198.14,1284
+Random Noise 10%,Dijkstra,422.0,710.63,39719.28,1358
+Random Noise 10%,Greedy Best-First,1.36,1.44,109.48,1259
+Random Noise 10%,JPS,103.93,215.09,2751.95,1964
+Random Noise 20%,A*,66.73,131.46,6229.49,2549
+Random Noise 20%,BFS,285.73,429.21,35901.44,1319
+Random Noise 20%,Dijkstra,386.78,592.18,37468.46,1320
+Random Noise 20%,Greedy Best-First,1.41,1.49,119.65,1186
+Random Noise 20%,JPS,90.07,170.38,3525.44,1496
+Random Noise 30%,A*,48.46,99.46,4590.35,1457
+Random Noise 30%,BFS,198.9,332.57,25783.82,1013
+Random Noise 30%,Dijkstra,263.4,450.17,26340.44,1006
+Random Noise 30%,Greedy Best-First,1.28,1.32,108.8,853
+Random Noise 30%,JPS,63.75,133.7,2950.85,1217
+Random Noise 40%,A*,63.34,142.71,5672.42,1336
+Random Noise 40%,BFS,208.08,366.56,25737.81,789
+Random Noise 40%,Dijkstra,266.28,474.23,26043.25,795
+Random Noise 40%,Greedy Best-First,1.35,1.87,123.26,838
+Random Noise 40%,JPS,76.63,165.73,3641.39,960
